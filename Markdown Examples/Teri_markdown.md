@@ -51,3 +51,10 @@ Adding links:  [link](actual web address)
 
 [Google]( https://www.google.com/)
 
+Images
+
+![](url)
+![](url “text”)         the text will be shown when you hover over the image
+
+![](     )                you can get image address when you right click on the image or add your own 
+
