@@ -59,3 +59,15 @@ Images
 ![](     )                you can get image address when you right click on the image or add your own 
 
 ![](sampleimage.png)  
+
+
+Another way uploading images and link to video url
+1) create new issues/upload image and github will create a http link 
+
+<img width="96" alt="sampleimage2" src="https://user-images.githubusercontent.com/10971069/82395932-a10c8180-9a1a-11ea-97bd-7b46f19882c0.png">
+
+https://www.youtube.com/watch?v=9z8ujpPgUjI
+
+[![](image upload to Github)](url of video)
+
+Click on Image to access video:
